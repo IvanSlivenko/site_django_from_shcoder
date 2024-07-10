@@ -1,0 +1,2 @@
+# site_django_from_shcoder
+site_django_from_shcoder
